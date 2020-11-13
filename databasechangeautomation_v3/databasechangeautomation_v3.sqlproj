@@ -124,5 +124,6 @@
     <Build Include="dbo\Tables\Dummy_v1.sql" />
     <Build Include="dbo\Tables\Dummy_v2.sql" />
     <Build Include="dbo\Tables\Dummy_v3.sql" />
+    <Build Include="dbo\Tables\altertable_test.sql" />
   </ItemGroup>
 </Project>
